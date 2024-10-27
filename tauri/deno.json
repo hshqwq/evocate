@@ -1,0 +1,7 @@
+{
+  "task": {
+    "dev": "tauri"
+  },
+
+  "exclude": ["target"]
+}
